@@ -1,0 +1,16 @@
+
+{
+  "expo": {
+    "name": "ChooseMyFood",
+    "icon": "./icon.png",
+    "version": "1.0.0",
+    "slug": "ChooseMyFood",
+    "sdkVersion": "22.0.0",
+    "ios": {
+      "bundleIdentifier": "romainpostel.example.com"
+    },
+    "android": {
+      "package": "romainpostel.example.com"
+    }
+  }
+}
